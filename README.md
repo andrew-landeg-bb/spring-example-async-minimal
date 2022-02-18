@@ -2,6 +2,9 @@
 
 Spring Example: minimal async processing
 
+Things to note
+ * `@Async` annotation - this segregates sync/async ops.
+
 run with 
 
 ```shell
